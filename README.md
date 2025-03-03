@@ -4,23 +4,6 @@
 
 생년월일 기반의 운세그래프를 제공하는 웹 및 모바일 서비스입니다.
 
-## 디렉토리
-lifepath-flow/
-├── README.md
-├── .gitignore
-├── backend/
-│   ├── app/
-│   ├── requirements.txt
-│   └── ...
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── ...
-└── docs/
-    ├── api_docs.md
-    ├── setup_guide.md
-    └── ...
 
 ## 기능
 
@@ -55,3 +38,23 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python -m app.main
+
+
+
+## 디렉토리
+lifepath-flow/
+├── README.md
+├── .gitignore
+├── backend/
+│   ├── app/
+│   ├── requirements.txt
+│   └── ...
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+└── docs/
+    ├── api_docs.md
+    ├── setup_guide.md
+    └── ...
